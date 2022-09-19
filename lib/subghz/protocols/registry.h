@@ -37,6 +37,7 @@
 #include "intertechno_v3.h"
 #include "clemsa.h"
 #include "oregon2.h"
+#include "firefly.h"
 
 #ifdef __cplusplus
 extern "C" {
