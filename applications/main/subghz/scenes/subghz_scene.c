@@ -1,5 +1,4 @@
 #include "subghz_scene.h"
-#include <lib/subghz/protocols/registry.h>
 
 // Generate scene on_enter handlers array
 #define ADD_SCENE(prefix, name, id) prefix##_scene_##name##_on_enter,
